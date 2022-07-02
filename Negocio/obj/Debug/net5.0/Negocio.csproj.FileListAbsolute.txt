@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\bin\Debug\net5.0\Negocio.deps.json
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\bin\Debug\net5.0\Negocio.dll
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\bin\Debug\net5.0\Negocio.pdb
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\bin\Debug\net5.0\Dominio.dll
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\obj\Debug\net5.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\obj\Debug\net5.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\obj\Debug\net5.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\obj\Debug\net5.0\Negocio.csproj.CopyComplete
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\obj\Debug\net5.0\Negocio.dll
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\obj\Debug\net5.0\refint\Negocio.dll
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\obj\Debug\net5.0\Negocio.pdb
+C:\Users\franc\OneDrive\Escritorio\ProyectoPokemon\FrancoMessinaNivel2\Negocio\obj\Debug\net5.0\ref\Negocio.dll
